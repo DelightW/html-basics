@@ -1,0 +1,22 @@
+h2{
+    color: maroon;
+
+}
+table{
+    width: 70%;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+td,th{
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+}
+ol{
+    background-color: lightgrey;
+    color: red;
+}
+ul{
+    color: red;
+    background-color: lightgrey;
+}
